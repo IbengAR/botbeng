@@ -17,13 +17,13 @@ const { state, saveState } = useSingleFileAuthState(sesion)
 
 const start = async () => {
     //Meng weem
-	console.log(color(figlet.textSync('Chika Bot MD', {
+	console.log(color(figlet.textSync('iBeng Bot MD', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
 		whitespaceBreak: false
 	}), 'cyan'))
-	console.log(color('[ By Rashidsiregar28 ]'))
+	console.log(color('[ By Rizky iBeng ]'))
     // set level pino ke fatal kalo ga mau nampilin log eror
     const chika = makeWASocket({ printQRInTerminal: true, logger: P({ level: 'silent' }), auth: state, version: [2,2204,13]}) 
     chika.multi = true
