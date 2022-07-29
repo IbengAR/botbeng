@@ -187,14 +187,14 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 08127668234 (OVO/Dana/GoPay)
+🏧 081257172080 (OVO/Dana)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
 Arigatou!
 
 Contact person Owner:
-wa.me/${ownerNumber} (Owner)
+wa.me/6281257172080 (Owner)
 
     `
 }
